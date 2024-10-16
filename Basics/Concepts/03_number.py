@@ -41,7 +41,7 @@ print(random.randint(1, 101))
 
 
 
-l1 = ["chai", "code", "hello", "ola"]
+str = ["chai", "code", "hello", "ola"]
 random.shuffle(l1)
 print(l1)
 print(random.choices(l1))
